@@ -15,4 +15,4 @@ postMerge:
   pattern:
     - "test/**/*.test.ts"
 configFile: .mocharc.json
-#test7
+#test7s
