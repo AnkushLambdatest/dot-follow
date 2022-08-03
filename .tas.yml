@@ -15,4 +15,5 @@ postMerge:
   pattern:
     - "test/**/*.test.ts"
 configFile: .mocharc.json
+parallelism: 2
 #test7ss
